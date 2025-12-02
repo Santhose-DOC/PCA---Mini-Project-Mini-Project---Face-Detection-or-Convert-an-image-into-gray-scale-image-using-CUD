@@ -1,7 +1,3 @@
-# PCA-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD
-Mini Project - Face Detection or Convert an image into gray scale image using CUDA GPU programming
-# PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD
-Mini Project - Face Detection or Convert an image into gray scale image using CUDA GPU programming
 # 🚀 GPU-Accelerated Spam Email Classifier using DistilBERT (Google Colab · PyTorch · Transformers)
 
 This project implements a **GPU-accelerated spam detection system** using  
